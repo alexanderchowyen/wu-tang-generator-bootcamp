@@ -1,0 +1,10 @@
+body{
+  background-image: url(https://cdn.dribbble.com/users/2105749/screenshots/11238807/wutang.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 17%;
+  padding-left: 3%;
+}
+label{
+  color: white;
+}
